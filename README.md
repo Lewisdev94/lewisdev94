@@ -4,13 +4,9 @@
 
 ## Currently:
 
--   Seeking Junior Web Dev Roles
--   Learning React 
--   Reworking my CSS workflow with Tailwind and SASS
+-   Seeking new web dev roles
+-   Learning React with personal projects
 -   Looking to collaborate with other developers
--   Building a personal photography portfolio
-
-
 
 ### Languages and Tools:
 
